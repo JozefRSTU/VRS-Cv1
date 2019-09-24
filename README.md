@@ -1,2 +1,2 @@
-# VRS-Cv1
-Podklady k cvičeniu 1
+# uvodne_cvicenie_VRS
+Program k uvodnemu cviceniu pre predmet vnorene riadiace systemy.
