@@ -11,7 +11,18 @@
 - inštalácia prebieha štandardne, pri výbere komponentov, ktoré sa budú inštalovať sa môže odznačiť “SEGGER J-link” (nepotrebujeme to)
 ***Inštalátor a cele vývojove prostredie nevie pracovať z priečinkov, ktorých absolútna cesta obsahuje medzeru, alebo diakritiku***
 ## 2. Práca s vyvojovým prostredím ##
-- import existujúceho projektu do workspace
+- Import existujúceho projektu do workspace
 > FILE -> IMPORT -> EXISTING PROJECTS INTO WORKSPACE -> SELECT ROOT DIRECTORY -> FINISH
 
 ![alt text](documents/obrazky/project-import.png)
+
+Naimportujte si projekt k cvičeniu , ten si môžete stiahnúť ako zip z GITHUBu, alebo si ho naklonovať do Vášho repozitáru.
+
+- Buildovanie projektu
+> Project -> Build    ***CTRL-B***
+
+- Debugovanie/Spustenie projektu
+> Run -> Debug        ***F11***
+
+
+ 
